@@ -1,19 +1,19 @@
-@import url('https://fonts.googleapis.com/css2?family=Asset&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
 
 body{
-    font-family: "Asset";
+    font-family:"lobster";
     color:black;
     background-color:rgb(253, 197, 219);
 }
 
 .thays{
-    background-color: rgb(233, 86, 184);
+    background-color: rgb(230, 17, 159);
 }
 
 .geisiane{ 
-    background-color: rgb(243, 136, 211);
+    background-color: rgb(245, 83, 196);
 }
 
 .emilyn{
-    background-color: rgb(243, 130, 215);
+    background-color: rgb(247, 115, 207);
 }
